@@ -1,6 +1,6 @@
 # 📋 Descrição do Projeto
 # Este repositório contém a resolução de uma atividade proposta, cujo objetivo é desenvolver um questionário de satisfação do cliente.
-#
+
 # O questionário foi elaborado para coletar informações básicas dos usuários, incluindo: Nome; Idade e Avaliação do serviço/produto.
 #
 # 🎯 Objetivo
